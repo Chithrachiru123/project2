@@ -1,2 +1,3 @@
 add a file
+i add a file
 change a file
