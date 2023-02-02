@@ -1,3 +1,8 @@
-add a file
+
+i add a new file
+change a new file
+file
 i add a file
+
+add another file
 change a file
